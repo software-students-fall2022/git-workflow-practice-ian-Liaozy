@@ -6,3 +6,7 @@ Last semester, I began to frequently make contributions on Github. At first, whe
 
 # Edit by Vincent(yx2021)
 Thanks Ian for introducing this interesting site that contains so many github projects we can contribute to. It's really a good place for starter to find a project to contribute. Really helpful resources.
+
+# Victoria's response
+I also use this website last semester in the Open Source Software engineering
+class. I think this website is very useful for new contributors.
